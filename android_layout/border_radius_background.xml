@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
 
-    // solid background color
+    <!-- solid background color -->
     <solid android:color="#FFFFFF"/>
 
-    //creating stroke line as border
+    <!-- creating stroke line as border -->
     <stroke android:width="2dp"
         android:color="#fff" />
 
-    //padding
+    <!-- padding -->
     <padding android:left="5dp"
         android:top="5dp"
         android:right="5dp"
         android:bottom="5dp"/>
 
-    //creating border radius
+    <!-- creating border radius -->
     <corners android:bottomRightRadius="7dp"
         android:bottomLeftRadius="7dp"
         android:topLeftRadius="7dp"
